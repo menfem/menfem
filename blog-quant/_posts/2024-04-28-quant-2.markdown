@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Quant 2"
+date:   2024-04-28 09:12:26 +0000
+category: Quant
+---
+
+why power markets need bayesian modelling, and discussion on forecasting
