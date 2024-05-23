@@ -6,4 +6,3 @@ category: Quant
 ---
 
 why need to understand basics of electricity markets, what interests me. 
-
