@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My focus is on risk, decisionsm and bets for investors and traders, i try to focus on both the quantative micro scale strategies, combined with a broader macro based outlook for long term investment. I have a specific interest in the commodities industry, but my focus is on risk management as a whole. Commodities and commidity options in particular interest me due to the lack of predictability as they are grounded in their physical nature. Storage, delivery, operations, transport, and perishability all have to be taken into account for any arbitrage involving a physical commodity
